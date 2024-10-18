@@ -8,7 +8,7 @@
 <p>
   Oi 👋, eu sou o Yan! um estudande de tecnologias do Brasil.
 
-  - 🌱 Atualmente estou estudando Análise e desenvolvimento de Sistemas na UERJ <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou estudando Análise e desenvolvimento de Sistemas na UERJ
 
   - 🔭 Estou procurando a minha primeira oportunidade de emprego.
 </p>
