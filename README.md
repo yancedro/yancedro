@@ -27,7 +27,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yancedro?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?yancedro=variablebee&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=yancedro&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
