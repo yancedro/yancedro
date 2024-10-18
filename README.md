@@ -28,6 +28,7 @@
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=yancedro&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yancedro&show_icons=true&theme=gotham)](https://github.com/yancedro/github-readme-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
