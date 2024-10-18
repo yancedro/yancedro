@@ -31,7 +31,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Cpaas](https://github.com/yancedro/Projeto_Cpaas)
+- [Cpaas](https://github.com/yancedro/Projeto_Cpaas) site - https://yancedro.github.io/Projeto_Cpaas/
 
 
 <!-- GIF -->
